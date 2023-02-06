@@ -8,15 +8,21 @@ In ordefor the table to return desired results, enter a date, city, state, count
 
 **Example 1: Searching for sightings in the shape of a triange, yields the following results**
 
-![]([UFOs_Challenge/Images/Shape.png](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png))
+Enter *triangle* in the field hightlighted in yellow, press Enter. Check the Shape column to ensure the data matches your entry. 
+
+![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png)
 
 **Example 2: Continue to drilldown on sightings in the shape of a triangle, that only occurred in the state of MA, will yield the following results**
 
-![](Images/shape_state.png)
+Leave *triangle* in the shape field hightlighted in yellow, then enter *ma* in the state filter highlighted in yellow, press Enter. Check the Shape & State column to ensure the data matches your entry. 
+
+![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape_State.png)
 
 **Example 3: Continue investigating UFO sightings that occurred in the state of MA, in any shape will yield the following results**
 
-![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png)
+Remove*triangle* from the shape field hightlighted in blue, leave *ma* in the state filter highlighted in yellow, press Enter. Check the Shape & State column to ensure the data matches your entry. 
+
+![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/State.png)
 
 ## Summary
 

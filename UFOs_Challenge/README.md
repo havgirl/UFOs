@@ -6,21 +6,21 @@ To create a webpage that provides a more in-depth analysis of UFO sightings that
 ## Results
 In ordet for the table to return desired results, enter a date, city, state, country, or shape (or combination of criteria) for the UFO sightings you are interested in reviewing. Below are examples of how the search criteria will return different results.
 
-**Example 1: Searching for sightings in the shape of a triange, yields the following results**
+**Example 1: Searching for sightings in the shape of a triange, yields the following results!**
 
 Enter *triangle* in the field hightlighted in yellow, press Enter. Check the Shape column to ensure the data matches your entry. 
 
 ![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png)
 
-**Example 2: Continue to drilldown on sightings in the shape of a triangle, that only occurred in the state of MA, will yield the following results**
+**Example 2: Continuing to drilldown on sightings in the shape of a triangle, that only occurred in the state of MA, will yield the following results!**
 
 Leave *triangle* in the shape field hightlighted in yellow, then enter *ma* in the state filter highlighted in yellow, press Enter. Check the Shape & State column to ensure the data matches your entry. 
 
 ![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape_State.png)
 
-**Example 3: Continue investigating UFO sightings that occurred in the state of MA, in any shape will yield the following results**
+**Example 3: Contining to investigate UFO sightings that occurred in the state of MA, in any shape will yield the following results!**
 
-Remove*triangle* from the shape field hightlighted in blue, leave *ma* in the state filter highlighted in yellow, press Enter. Check the Shape & State column to ensure the data matches your entry. 
+Remove *triangle* from the shape field hightlighted in blue, leave *ma* in the state filter highlighted in yellow, press Enter. Check the Shape & State column to ensure the data matches your entry. By removing the triangle shape, you are requesting to see all shape types, evident in the results. 
 
 ![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/State.png)
 

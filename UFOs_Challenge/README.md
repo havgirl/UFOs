@@ -4,7 +4,7 @@
 To create a webpage that provides a more in-depth analysis of UFO sightings that allows users to filter for multiple criteria at the same time.  The filters will allow you to search using a single search feature, or any combination of the following: date, city, state, country and shape.
 
 ## Results
-In ordefor the table to return desired results, enter a date, city, state, country, or shape (or combination of criteria) for the UFO sightings you are interested in reviewing. Below are examples of how the search criteria will return different results.
+In ordet for the table to return desired results, enter a date, city, state, country, or shape (or combination of criteria) for the UFO sightings you are interested in reviewing. Below are examples of how the search criteria will return different results.
 
 **Example 1: Searching for sightings in the shape of a triange, yields the following results**
 

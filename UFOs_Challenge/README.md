@@ -6,17 +6,17 @@ To create a webpage that provides a more in-depth analysis of UFO sightings that
 ## Results
 In ordefor the table to return desired results, enter a date, city, state, country, or shape (or combination of criteria) for the UFO sightings you are interested in reviewing. Below are examples of how the search criteria will return different results.
 
-** Example 1: Searching for sightings in the shape of a triange, yields the following results**
+**Example 1: Searching for sightings in the shape of a triange, yields the following results**
 
 ![]([UFOs_Challenge/Images/Shape.png](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png))
 
-** Example 2: Continue to drilldown on sightings in the shape of a triangle, that only occurred in the state of MA, will yield the following results**
+**Example 2: Continue to drilldown on sightings in the shape of a triangle, that only occurred in the state of MA, will yield the following results**
 
 ![](Images/shape_state.png)
 
-** Example 3: Continue investigating UFO sightings that occurred in the state of MA, in any shape will yield the following results**
+**Example 3: Continue investigating UFO sightings that occurred in the state of MA, in any shape will yield the following results**
 
-![](Images/state.png)
+![](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png)
 
 ## Summary
 

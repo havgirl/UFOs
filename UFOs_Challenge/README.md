@@ -8,7 +8,7 @@ In ordefor the table to return desired results, enter a date, city, state, count
 
 ** Example 1: Searching for sightings in the shape of a triange, yields the following results**
 
-![](UFOs_Challenge/Images/Shape.png)
+![]([UFOs_Challenge/Images/Shape.png](https://github.com/havgirl/UFOs/blob/1c7957aba708de41713baf13f676136b15f40e22/UFOs_Challenge/Images/Shape.png))
 
 ** Example 2: Continue to drilldown on sightings in the shape of a triangle, that only occurred in the state of MA, will yield the following results**
 
